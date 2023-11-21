@@ -3,6 +3,9 @@ This is a low-level attack which you can use for experimental or educational usa
 
 # Screenshot
 
+![alt_text](https://github.com/hamed-alemoni/Happy-DOS/blob/main/first_menu.png)
+![alt_text](https://github.com/hamed-alemoni/Happy-DOS/blob/main/second_menu.png)
+
 # Installation
 
 To get this tool install git then enter below command in command line : 
